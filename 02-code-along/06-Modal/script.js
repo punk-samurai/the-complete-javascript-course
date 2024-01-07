@@ -15,7 +15,7 @@ const openModalHandler = function () {
 
 const closeModalHandler = function () {
   modal.classList.add("hidden");
-  overlay.classList.add("hidden");
+  overlay.c lassList.add("hidden");
 };
 
 for (let i = 0; i < btnsOpenModal.length; i++)
